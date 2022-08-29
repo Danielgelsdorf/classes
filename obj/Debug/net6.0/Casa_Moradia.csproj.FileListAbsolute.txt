@@ -1,0 +1,15 @@
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\Casa_Moradia.csproj.AssemblyReference.cache
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\Casa_Moradia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\Casa_Moradia.AssemblyInfoInputs.cache
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\Casa_Moradia.AssemblyInfo.cs
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\Casa_Moradia.csproj.CoreCompileInputs.cache
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\bin\Debug\net6.0\Casa_Moradia.exe
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\bin\Debug\net6.0\Casa_Moradia.deps.json
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\bin\Debug\net6.0\Casa_Moradia.runtimeconfig.json
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\bin\Debug\net6.0\Casa_Moradia.dll
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\bin\Debug\net6.0\Casa_Moradia.pdb
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\Casa_Moradia.dll
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\refint\Casa_Moradia.dll
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\Casa_Moradia.pdb
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\Casa_Moradia.genruntimeconfig.cache
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\casa_moradia\Casa_Moradia\obj\Debug\net6.0\ref\Casa_Moradia.dll
